@@ -3,7 +3,7 @@ box
 
 [![Puppet Forge](https://img.shields.io/puppetforge/v/halyard/box.svg)](https://forge.puppetlabs.com/halyard/box)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
-[![Build Status](https://img.shields.io/circleci/project/halyard/puppet-box/master.svg)](https://circleci.com/gh/halyard/puppet-box)
+[![Build Status](https://img.shields.io/travis/com/halyard/puppet-box.svg)](https://travis-ci.com/halyard/puppet-box)
 
 Install and configure box
 
